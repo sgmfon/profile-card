@@ -36,3 +36,16 @@ profile-card/
 ├── index.css
 └── README.md
 ```
+## Testing
+
+### Manual Testing Checklist
+- ✅ All `data-testid` attributes are present and correct
+- ✅ Keyboard navigation works (Tab through social links)
+- ✅ Focus styles are visible (yellow outline on links)
+- ✅ Responsive on mobile, tablet, and desktop
+- ✅ Time displays current timestamp in milliseconds
+- ✅ Image loads with proper alt text
+- ✅ Social links open in new tab with security attributes
+
+### Browser Tested
+- Chrome
